@@ -1,2 +1,5 @@
 # Ignore virtual environment directory
 .venv/
+
+# ignore image-upload
+image-upload/
